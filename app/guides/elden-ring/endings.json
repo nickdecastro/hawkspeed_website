@@ -1,0 +1,487 @@
+{
+  "endings": [
+    {
+      "id": "elden_lord",
+      "order": 1,
+      "title": "Elden Lord ending",
+      "steps": [
+        {
+          "id": "el_1",
+          "title": "Defeat Margit, the Fell Omen",
+          "description": "From the First Step in Limgrave, follow the guidance of grace north through Stormgate and up the hill to Stormveil Castle's outskirts. Margit, the Fell Omen guards the bridge at Castleward Tunnel. If he proves too strong, explore Limgrave first — Gatefront Ruins, Groveside Cave, and Stormfoot Catacombs will raise your level and earn you a Golden Seed or two. You can also buy Margit's Shackle from Patches in Murkwater Cave to stagger him twice.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "el_2",
+          "title": "Defeat Godrick the Grafted",
+          "description": "Fight your way through Stormveil Castle to its lord, Godrick the Grafted. Nepheli Loux can be summoned outside the boss door if you spoke with her in the castle. Defeating Godrick grants your first Great Rune and Remembrance. Take your time in the castle — it hides a Golden Seed, smithing stones, and the Godslayer's Seal.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "el_3",
+          "title": "Activate Godrick's Great Rune",
+          "description": "A Great Rune is powerless until restored. Travel east across Limgrave to the Divine Tower of Limgrave — reach it via the great stone bridge behind Stormveil Castle (from the Liftside Chamber grace) and the portal at the bridge's end. Climb the tower and restore Godrick's Great Rune at its peak. Equip it at a Site of Grace and consume a Rune Arc to gain +5 to all attributes while it lasts.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "el_4",
+          "title": "Defeat Rennala, Queen of the Full Moon",
+          "description": "Head north into Liurnia of the Lakes and enter the Academy of Raya Lucaria (you'll need the Academy Glintstone Key, carried by a corpse guarded by the dragon Smarag west of the academy). Defeat the Red Wolf of Radagon, then Rennala, Queen of the Full Moon in the Grand Library. Her Great Rune is unrestorable, but she counts toward the two Great Runes you need to enter Leyndell — and she offers rebirth (respec) with Larval Tears from now on.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "el_5",
+          "title": "Ascend to the Altus Plateau",
+          "description": "Reach the Altus Plateau by one of two routes: collect both halves of the Dectus Medallion (Fort Haight in east Limgrave and Fort Faroth in Caelid) and ride the Grand Lift of Dectus at the north end of Liurnia, or fight through the Ruin-Strewn Precipice and defeat Magma Wyrm Makar. The lift is the easier path; the precipice rewards you with a Golden Seed and talisman.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "el_6",
+          "title": "Enter Leyndell, Royal Capital",
+          "description": "Cross the Altus Plateau east toward the capital. With two Great Runes in your possession, the way into Leyndell is barred only by the Draconic Tree Sentinel at the capital's outer gate. He is a serious fight on horseback — Torrent's speed helps you avoid his lightning and fire. Once he falls, the capital's gates open to you.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "el_7",
+          "title": "Defeat Godfrey, First Elden Lord (Golden Shade)",
+          "description": "Work your way through Leyndell's streets and rooftops toward the Erdtree. In the arena before the Erdtree Sanctuary you'll face the golden shade of Godfrey, First Elden Lord. He telegraphs his axe swings heavily; stay close and punish his recovery. Before pressing on, consider exploring the capital fully — several NPC questlines (Goldmask, Dung Eater, Sellen) run through it and are best advanced now.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "el_8",
+          "title": "Defeat Morgott, the Omen King",
+          "description": "Climb to the base of the Erdtree and face Morgott, the Omen King — Margit's true self. Melina can be summoned for this fight at the boss door. After victory, rest at the grace: Melina gives you the Rold Medallion and instructs you to seek the Mountaintops of the Giants. You'll also discover the Erdtree's thorns bar your entry — you need the Flame of Ruin.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "el_9",
+          "title": "Cross the Mountaintops of the Giants",
+          "description": "Take the Grand Lift of Rold (east of the capital, using the Rold Medallion) up to the Mountaintops of the Giants. Push east across the frozen wastes and the chain bridge at Castle Sol's south, through Whiteridge Road and the Fire Giant's domain. WARNING: this is your last comfortable window to finish NPC questlines that require Leyndell in its current state — Goldmask's and the Dung Eater's quests in particular.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "el_10",
+          "title": "Defeat the Fire Giant",
+          "description": "At the end of the mountaintops you'll face the Fire Giant, guardian of the Forge of the Giants. He has enormous health; target his left ankle bracelet in phase one, and stay behind him in phase two when he tears off his own leg. Alexander the Iron Fist can be summoned if his quest was advanced. Torrent is available throughout the fight.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "el_11",
+          "title": "Commit the cardinal sin: burn the Erdtree",
+          "description": "Climb to the Forge of the Giants and rest at the Site of Grace. When you choose to proceed, Melina sacrifices herself to kindle the flame, and the Erdtree burns. You awaken in Crumbling Farum Azula. Before you do this, be certain: finish or advance every NPC questline you care about (Millicent, Goldmask, Dung Eater, Sellen, Nepheli, and any others).",
+          "altersPlaythrough": true,
+          "consequence": "Burning the Erdtree is the game's great point of no return. Melina departs permanently (unless you bear the Frenzied Flame), the sky turns ember-red, and after Maliketh falls Leyndell becomes the Ashen Capital — locking or ending several NPC questlines and making some areas unreachable. Do not proceed until your unfinished business in the Lands Between is settled."
+        },
+        {
+          "id": "el_12",
+          "title": "Defeat Maliketh, the Black Blade",
+          "description": "Fight through Crumbling Farum Azula — past the Godskin Duo (use Sleep pots or arrows to trivialize them) and the Dragon Temple — to the Beast Clergyman, who transforms mid-fight into Maliketh, the Black Blade. His Destined Death attacks reduce your maximum HP, so avoid trading hits. When Maliketh dies, Destined Death is unbound.",
+          "altersPlaythrough": true,
+          "consequence": "The moment Maliketh falls, Leyndell is transformed into the Ashen Capital. Any quests still hanging in the old capital are lost, and its layout changes permanently. If anything remains undone in Leyndell, finish it before this fight."
+        },
+        {
+          "id": "el_13",
+          "title": "Return to the Ashen Capital and defeat Sir Gideon and Hoarah Loux",
+          "description": "You are returned to Leyndell, now the Ashen Capital. Climb toward the Erdtree once more. Sir Gideon Ofnir, the All-Knowing bars your way in the library-like chamber — he is a spellcaster duel. Beyond him, Godfrey awaits again, in the flesh this time; halfway through the fight he casts aside his lion and becomes Hoarah Loux, Warrior, a brutal grappler. Learn to dodge his grab attacks — they cannot be blocked.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "el_14",
+          "title": "Defeat Radagon of the Golden Order and the Elden Beast",
+          "description": "Enter the Erdtree. The final battle is two bosses back to back with no grace between: Radagon of the Golden Order, whose hammer blows track your dodges, and then the Elden Beast, a vast swimming god-creature. Physical damage serves you better than holy — the Elden Beast heavily resists holy damage. There is no shame in summoning a friend, or using the Mimic Tear if you have it.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "el_15",
+          "title": "Mend the Elden Ring — become Elden Lord",
+          "description": "After the Elden Beast falls, approach the body of Queen Marika and touch her. Choose \"Mend the Elden Ring\" to usher in the Age of Fracture and be crowned Elden Lord. (If you completed the Dung Eater's or Fia's questlines, their alternative Mending Runes appear here as variant Elden Lord endings — do NOT select them unless you want those darker ages.)",
+          "altersPlaythrough": true,
+          "consequence": "Choosing an ending completes your playthrough and starts the credits; afterwards you may continue to explore the world as is, go to the table in Round Table Hold to begin Journey 2 (New Game Plus) or if you have the Shadow of the Erdtree DLC, now would be a good time to proceed to the back of Mohgwyn Palace after defeating Mohg. Also note: if you ever embraced the Three Fingers, the Frenzied Flame ending triggers automatically instead — it must have been purged beforehand with Miquella's Needle. And if Ranni's quest was completed, be careful not to summon her blue sigil unless you want her ending."
+        }
+      ]
+    },
+    {
+      "id": "frenzied_flame",
+      "order": 2,
+      "title": "Lord of Frenzied Flame ending",
+      "steps": [
+        {
+          "id": "ff_1",
+          "title": "Meet Hyetta at Lake-Facing Cliffs",
+          "description": "This ending can be reached without any NPC quest, but Hyetta's questline is its proper companion. First, pick up a Shabriri Grape in Stormveil Castle (in the dim chamber beneath the castle where commoners kneel in prayer, near the Liftside Chamber grace). Then travel to the Lake-Facing Cliffs Site of Grace in southern Liurnia and give the grape to Hyetta, a blind maiden journeying toward 'distant grace.'",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "ff_2",
+          "title": "Follow Hyetta north with more grapes",
+          "description": "Hyetta moves up Liurnia's eastern shore. Find her next by the Purified Ruins (a second Shabriri Grape lies in the buried cellar within those very ruins — look for a wooden hatch), then at the Gate Town Bridge, where she asks for a third grape (one can be found at the Church of Inhibition, far to the north-east past the Frenzy-Flaming Tower; defeat the invader Festering Fingerprint Vyke on the way). After the third grape she realizes, to her horror, what the grapes truly are — reassure her to continue.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "ff_3",
+          "title": "Give Hyetta the Fingerprint Grape",
+          "description": "Hyetta waits last at Bellum Church, midway up the road to the Grand Lift of Dectus. She now asks for a Fingerprint Grape — it lies at the Church of Inhibition where Vyke invaded. Hand it over and she declares her wish to become a Finger Maiden. She will not appear again until you stand before the Three Fingers.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "ff_4",
+          "title": "Reach Leyndell, Royal Capital",
+          "description": "Progress the main story until you can enter Leyndell (two Great Runes, then defeat the Draconic Tree Sentinel — see the Elden Lord path, steps 1 through 6). The way to the Three Fingers runs beneath the capital, so the city must be open to you. This must be done BEFORE burning the Erdtree turns Leyndell to ash, or the path below becomes harder to reach.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "ff_5",
+          "title": "Descend into the Subterranean Shunning-Grounds",
+          "description": "In Leyndell, find the well that leads under the city: from the Avenue Balcony Site of Grace, descend the stairs toward the west gate and look for a ladder inside a dry well shaft by the road. Climb down into the Subterranean Shunning-Grounds, the sewer labyrinth beneath the capital, and work through its tunnels and pipes.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "ff_6",
+          "title": "Defeat Mohg, the Omen",
+          "description": "At the bottom of the shunning-grounds lies the Cathedral of the Forsaken, where Mohg, the Omen awaits (a stronger shadow of the Mohg you may later fight in Mohgwyn Palace). His blood flame attacks build bleed — keep your distance when he curses you with Nihil, or wear the Purifying Crystal Tear in your physick if you have it from Yura's questline.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "ff_7",
+          "title": "Strike the altar and descend the hidden shaft",
+          "description": "Behind Mohg's arena stands a stone altar against the back wall. Strike it — it is an illusion — revealing a hidden passage. Beyond lies a vast vertical shaft, the Frenzied Flame Proscription, that must be descended by dropping carefully between beams, ledges, and coffins. Take it slowly; almost every fall here is lethal. At the bottom is a Site of Grace and a great sealed door.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "ff_8",
+          "title": "Remove ALL armor before the door",
+          "description": "The chamber of the Three Fingers only opens to one who comes naked, as a newborn. Unequip every piece of apparel — helm, chest, gauntlets, greaves. (Weapons and talismans may stay.) Then approach the door and it will open of its own accord.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "ff_9",
+          "title": "Embrace the Three Fingers",
+          "description": "Walk into the chamber and the Three Fingers will grip your body, searing the mark of the Frenzied Flame into your flesh. You become the maidenless kindling of chaos. Do NOT do this casually — read the consequence panel first. If you have already burned the Erdtree with Melina's sacrifice, this moment instead sets her on the path of vengeance.",
+          "altersPlaythrough": true,
+          "consequence": "This is the most consequential single act in the game. Once marked by the Frenzied Flame, EVERY other ending is locked: after the final boss, the Lord of Frenzied Flame ending plays automatically. Melina leaves you (or vows to deliver Destined Death to you), though the mark does let you ignite the Forge of the Giants without her sacrifice. The ONLY way back: complete Millicent's questline to obtain Miquella's Needle, then use it in the arena of Dragonlord Placidusax in Crumbling Farum Azula to purge the flame."
+        },
+        {
+          "id": "ff_10",
+          "title": "Witness Hyetta's end",
+          "description": "If you followed Hyetta's quest, she appears at the Frenzied Flame Proscription grace after you are marked. Speak with her: she at last beholds the 'distant grace' she sought, serves briefly as your Finger Maiden, and dies content — leaving Frenzyflame Stone. Her quest, and her mercy, are complete.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "ff_11",
+          "title": "Finish the game as the Lord of Chaos",
+          "description": "Proceed through the remainder of the main story: burn the Erdtree at the Forge of the Giants (your own flame suffices now), conquer Crumbling Farum Azula and Maliketh, then the Ashen Capital, and finally Radagon and the Elden Beast. When the Elden Beast falls, the Frenzied Flame ending triggers automatically — the Tarnished becomes the Lord of Frenzied Flame, and chaos takes the world.",
+          "altersPlaythrough": false,
+          "consequence": null
+        }
+      ]
+    },
+    {
+      "id": "age_of_stars",
+      "order": 3,
+      "title": "Age of the Stars ending",
+      "steps": [
+        {
+          "id": "aos_1",
+          "title": "Find Ranni at Ranni's Rise",
+          "description": "Travel to the Three Sisters plateau in north-west Liurnia — it lies behind Caria Manor, so you must first fight through the manor and defeat Royal Knight Loretta. From the manor's rear exit, head west to Ranni's Rise and climb the tower. Speak with Ranni the Witch at the top. (If you met the miniature snow witch Renna in the Church of Elleh at the game's start and received Torrent's whistle, this is her true self.)",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "aos_2",
+          "title": "Choose to serve Ranni",
+          "description": "When Ranni offers you a place in her service, accept. She introduces her three retainers below: Blaidd the half-wolf, War Counselor Iji, and Preceptor Seluvis. Speak with all three of them in the tower (they appear as spectral projections), then speak with Ranni again to receive your task: seek the hidden treasure of Nokron, Eternal City.",
+          "altersPlaythrough": true,
+          "consequence": "Accepting Ranni's pact opens the path toward the Age of the Stars ending. Completing her quest and summoning her at the game's end will replace the standard Elden Lord ending. Nothing is locked yet — you may still choose another ending at the very end — but her questline shapes much of your journey from here."
+        },
+        {
+          "id": "aos_3",
+          "title": "Meet Blaidd in the Siofra River",
+          "description": "Descend into the Siofra River underground (the well entrance is in the Mistwood, east Limgrave). Find Blaidd on a cliff ledge near the Siofra River Bank grace — follow his howls. He tells you Nokron is sealed and suggests consulting Seluvis, who in turn points you to Sorceress Sellen (at the Waypoint Ruins in Limgrave): the seal on Nokron breaks only when Starscourge Radahn falls, for it is his power that holds the stars — and Ranni's fate — in place.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "aos_4",
+          "title": "Defeat Starscourge Radahn",
+          "description": "Travel to Redmane Castle at Caelid's southern tip (a portal near Impassable Greatbridge carries you in) and speak with the festival's herald to begin the Radahn Festival. Ride into the wailing dunes and battle Starscourge Radahn — the festival lets you summon a small army of NPC allies, including Blaidd. Use Torrent freely and re-summon allies as they fall. When Radahn dies, a falling star crashes into Limgrave: the way to Nokron is open.",
+          "altersPlaythrough": true,
+          "consequence": "Radahn's death changes the world: the star he held in check crashes into the Mistwood, opening the crater to Nokron, and the festival ends. It also advances time for several NPCs in Redmane Castle. This is required for Ranni's quest and cannot be undone — but it locks nothing you'd want to keep."
+        },
+        {
+          "id": "aos_5",
+          "title": "Retrieve the Fingerslayer Blade from Nokron",
+          "description": "Enter Nokron, Eternal City through the great crater south of the Mistwood in Limgrave, dropping carefully along the floating ruins. Fight through the Mimic Tear boss and cross the Ancestral Woods to the Night's Sacred Ground. There, in a chest guarded by silent watchers, lies the Fingerslayer Blade — the hidden treasure Ranni seeks.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "aos_6",
+          "title": "Give Ranni the Fingerslayer Blade",
+          "description": "Return to Ranni's Rise and present the Fingerslayer Blade. Ranni rewards you with the Carian Inverted Statue and departs — her tower now stands empty, and her retainers' projections fade. Iji, in the flesh on the road below, will mourn; speak with him for context (and his smithing services).",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "aos_7",
+          "title": "Invert the Carian Study Hall",
+          "description": "Travel to the Carian Study Hall on Liurnia's eastern cliffs. Place the Carian Inverted Statue on the pedestal model of the hall in the entrance chamber — the entire tower inverts. Navigate the upside-down hall (mind the preceptor and his puppets) down/up to what is now the exit onto the Divine Tower of Liurnia's bridge.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "aos_8",
+          "title": "Claim the Cursemark of Death",
+          "description": "Cross the long bridge and ride the lift up the Divine Tower of Liurnia. At its peak you find the Stargazer Heirloom talisman and, on the body cradled there, the Cursemark of Death — proof of the Night of the Black Knives and the key to understanding Ranni's shed flesh. (Optional but recommended: this item also matters for Fia's questline later.)",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "aos_9",
+          "title": "Find the miniature Ranni in Renna's Rise",
+          "description": "Return to the Three Sisters. Renna's Rise, the northern tower previously sealed, is now open. Ride its lift up and step through the waygate at the top — it teleports you to the Ainsel River Main, deep underground. Just ahead, on an open coffin, lies the Miniature Ranni doll. Pick it up, then rest at a nearby Site of Grace and choose 'Talk to miniature Ranni' three times until the doll answers.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "aos_10",
+          "title": "Slay the Baleful Shadow in Nokstella",
+          "description": "Ranni, speaking through the doll, asks you to hunt down her betrayer. Follow the Ainsel River up into Nokstella, Eternal City, then descend the great stairway beneath it. In the tunnel beyond the Nokstella Waterfall Basin grace, the Baleful Shadow — a dark twin of Blaidd — attacks. Defeat it, and Ranni grants you the Discarded Palace Key. A word of warning: do not strike the real Blaidd before this.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "aos_11",
+          "title": "Unlock the Dark Moon Ring",
+          "description": "The Discarded Palace Key opens the treasure chest in the Grand Library of the Academy of Raya Lucaria — the very room where you fought Rennala. Inside lies the Dark Moon Ring. Carry it carefully; it is your betrothal to the Lunar Princess.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "aos_12",
+          "title": "Cross the Lake of Rot and defeat Astel",
+          "description": "Continue past where the Baleful Shadow fell, down to the Lake of Rot. Cross the scarlet-rot lake (raise the stone platforms; boluses and Immunizing Horn Charms help), then take the coffin at the Grand Cloister's waterfall — it carries you to Astel, Naturalborn of the Void. Defeat this cosmic horror (watch for its teleporting grab), then ride the lift beyond up to the Moonlight Altar plateau.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "aos_13",
+          "title": "Place the ring — reunite with Ranni",
+          "description": "On the Moonlight Altar, enter the Cathedral of Manus Celes and descend into the hole in its floor. Among the Two Fingers' corpses rests Ranni's tiny doll body. Speak and offer the Dark Moon Ring. Ranni awakens, speaks of her Age of Stars, and departs — leaving you the Dark Moon Greatsword, her sworn token. Her questline is complete; all that remains is the end of the game.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "aos_14",
+          "title": "Defeat the final boss and summon Ranni",
+          "description": "Finish the main story: burn the Erdtree, defeat Maliketh, Hoarah Loux, and finally Radagon and the Elden Beast (see the Elden Lord path for details). After the Elden Beast falls, do NOT touch Marika's body. Instead, look for the blue summon sign of Ranni on the ground nearby and activate it. She arrives to usher in the Age of the Stars, taking you as her consort on her cold, dark journey among the stars.",
+          "altersPlaythrough": true,
+          "consequence": "Summoning Ranni finalizes the Age of the Stars ending and completes your playthrough — the moment you activate her sign, no other ending can be chosen this cycle. (Conversely, touching Marika instead would forfeit this ending despite all your work — the choice only exists at this moment.) This ending overrides all Mending Rune endings, and is unavailable only if you bear an unpurged Frenzied Flame."
+        }
+      ]
+    },
+    {
+      "id": "secret_ending",
+      "order": 4,
+      "title": "Secret ending",
+      "steps": [
+        {
+          "id": "se_1",
+          "title": "Speak with Brother Corhyn at the Roundtable Hold",
+          "description": "The most hidden of the Mending Rune endings — the Age of Order — begins quietly. At the Roundtable Hold, speak with Brother Corhyn, the golden-robed cleric who teaches incantations. Exhaust his dialogue. He will eventually tell you he intends to leave the Hold and walk the Lands Between in search of the noble Goldmask.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "se_2",
+          "title": "Find Corhyn on the Altus Plateau",
+          "description": "Once you reach the Altus Plateau (Grand Lift of Dectus or Ruin-Strewn Precipice), Corhyn relocates to the roadside just north of the Altus Highway Junction Site of Grace, near the map fragment pillar. Speak with him — he asks after his master, Goldmask, whom he has not yet found.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "se_3",
+          "title": "Locate Goldmask on the broken bridge",
+          "description": "Goldmask stands motionless at the end of a ruined stone bridge in the far west of the Altus Plateau, north-west of the Road of Iniquity — a golden figure posed with arms outstretched toward the Erdtree. Speak with him (he says nothing), then return and tell Corhyn where his master stands. Corhyn joins Goldmask on the bridge.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "se_4",
+          "title": "Learn of the impasse",
+          "description": "Speak with Corhyn and Goldmask on the bridge. Goldmask contemplates a flaw in the Golden Order but is silent; Corhyn cannot decipher what riddle grips him. The pair need a revelation about the Order's deepest secret — one that you must uncover for them. They will later move near the coliseum in Leyndell; continue the main story until you can enter the capital.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "se_5",
+          "title": "Obtain the Golden Order Principia",
+          "description": "In Leyndell, from the Erdtree Sanctuary Site of Grace (after defeating Godfrey's golden shade), go up the stairs and out onto the great curving Erdtree branch that pierces the sanctuary. Ride it upward and drop onto the balcony above the sanctuary's entrance. There, on an abandoned throne, lies the Golden Order Principia — the founding prayerbook of the Order.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "se_6",
+          "title": "Learn the Law of Regression incantation",
+          "description": "Give the Golden Order Principia to a learned cleric (Corhyn himself, now near the coliseum in Leyndell, or Miriel at the Church of Vows) to unlock its incantations, then learn the Law of Regression. It requires 37 Intelligence to cast — steep for faith builds. You can bridge the gap temporarily: Godrick's Great Rune (+5 all stats), the Stargazer Heirloom (+5 INT), and a respec at Rennala are all fair play. You only need to cast it once.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "se_7",
+          "title": "Solve the riddle: 'Regression alludes to perfection'",
+          "description": "In Leyndell, find the giant statue of Radagon below the Erdtree Sanctuary (take the elevator down; the statue towers over a small plaza). Read the message at its base: 'Regression alludes to perfection.' Stand on the glowing message and cast the Law of Regression. The statue transforms, revealing the Order's most dangerous secret — 'Radagon is Marika.'",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "se_8",
+          "title": "Reveal the secret to Goldmask and Corhyn",
+          "description": "Return to Goldmask and Corhyn near the coliseum with the truth in hand (read the transformed statue's message first). Goldmask trembles with epiphany — he has grasped the Order's fatal flaw. Corhyn, by contrast, begins to lose his faith, disturbed that you and his master would question the divine. Exhaust both of their dialogues. Their work is nearly done; yours continues.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "se_9",
+          "title": "Burn the Erdtree and defeat Maliketh",
+          "description": "Advance the main story: cross the Mountaintops of the Giants, defeat the Fire Giant, kindle the Forge of the Giants (the point of no return — be sure Goldmask's steps above are ALL done first), then conquer Crumbling Farum Azula and slay Maliketh, the Black Blade. Leyndell becomes the Ashen Capital.",
+          "altersPlaythrough": true,
+          "consequence": "Burning the Erdtree and killing Maliketh permanently transform Leyndell. If you have not completed the Law of Regression revelation (steps 5–8) by the time Maliketh falls, Goldmask's questline can no longer be completed and the Mending Rune of Perfect Order is lost for this playthrough."
+        },
+        {
+          "id": "se_10",
+          "title": "Recover the Mending Rune of Perfect Order",
+          "description": "In the Ashen Capital, return to where the pair stood near the coliseum. Goldmask sits dead, golden and serene, his contemplation ended. On his body lies the Mending Rune of Perfect Order — his answer to a god's madness: an Order no longer dependent on fickle divinity. (Corhyn, if you shattered his faith, wanders nearby in despair; his fate is sealed either way.)",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "se_11",
+          "title": "Defeat the final bosses and use the Mending Rune",
+          "description": "Fight through Sir Gideon Ofnir and Hoarah Loux, then defeat Radagon of the Golden Order and the Elden Beast. At the very end, touch Marika's body and choose 'Use Mending Rune of Perfect Order.' The Age of Order dawns: an unwavering, perfected Order that brooks no more madness from gods — widely considered the most 'complete' repair of the Elden Ring.",
+          "altersPlaythrough": true,
+          "consequence": "Selecting a Mending Rune at Marika's body finalizes your ending and rolls credits; the playthrough is over except for New Game Plus. Make sure you select the Perfect Order rune specifically — the default 'Mend the Elden Ring' choice sits beside it and yields the ordinary Age of Fracture instead. This ending is unavailable if you bear an unpurged Frenzied Flame, and choosing it forgoes Ranni's ending even if her quest is complete."
+        }
+      ]
+    },
+    {
+      "id": "shadow_of_the_erdtree",
+      "order": 5,
+      "title": "Shadow of the Erdtree",
+      "steps": [
+        {
+          "id": "sote_1",
+          "title": "Defeat Starscourge Radahn",
+          "description": "The DLC requires two base-game bosses slain. First: Starscourge Radahn. Trigger the Radahn Festival at Redmane Castle in Caelid (reaching Altus Plateau or progressing Ranni's quest starts it) and defeat him in the wailing dunes with the festival's NPC summons at your side.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "sote_2",
+          "title": "Reach Mohgwyn Palace",
+          "description": "Second gate: Mohg, Lord of Blood, deep in Mohgwyn Palace. Two routes lead there: complete White Mask Varré's questline (his bloody invitation carries you across) — Varré starts at the First Step and moves to the Rose Church in Liurnia — or, without any quest, use the waygate on the western edge of the Consecrated Snowfield, reached late in the game with both halves of the Haligtree Secret Medallion.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "sote_3",
+          "title": "Defeat Mohg, Lord of Blood",
+          "description": "Fight through the palace's blood-soaked caverns and mausoleum to Mohg, Lord of Blood. His curse ritual ('Nihil!') drains you three times in phase two — counter it with the Purifying Crystal Tear (dropped by Eleonora at the Second Church of Marika during Yura's quest) or simply heal through it. His fall opens the way to the Land of Shadow.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "sote_4",
+          "title": "Touch Miquella's withered arm",
+          "description": "In Mohg's boss arena stands the enormous cocoon of Miquella. Rest at the Site of Grace, then interact with the withered arm protruding from the cocoon. You are drawn into the Land of Shadow — the realm of the Shadow of the Erdtree expansion. (You can return to the Lands Between at any time from any Site of Grace; nothing in the base game is lost by entering.)",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "sote_5",
+          "title": "Gravesite Plain: follow Miquella's crosses",
+          "description": "You arrive at the Gravesite Plain. Two systems matter immediately: Scadutree Fragments and Revered Spirit Ashes raise YOUR damage dealt and reduce damage taken in this realm — collect them relentlessly, they matter more than levels here. Follow the guidance to Miquella's crosses, and meet the needle knight Leda and Miquella's other followers gathered at the Three-Path Cross. Speak with them all.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "sote_6",
+          "title": "Belurat: defeat the Divine Beast Dancing Lion",
+          "description": "Climb west into Belurat, Tower Settlement, the gargoyle-haunted city of the hornsent. At its summit, in a rain-lashed arena, you face the Divine Beast Dancing Lion — a two-man beast that shifts between wind, lightning, and frost stances. Redmane Freyja can be summoned outside if you met her at Three-Path Cross. Its fall grants your first remembrance of the Land of Shadow.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "sote_7",
+          "title": "Castle Ensis: defeat Rellana, Twin Moon Knight",
+          "description": "Cross the Ellac River bridge north-east to Castle Ensis, the Carian fortress guarding the path deeper inland. At its top waits Rellana, Twin Moon Knight — Rennala's sister, a relentless duelist wielding twin blades of moon and fire. Her twin moons slam is survived by jumping. Beyond her lies Scadu Altus, the plateau at the realm's heart.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "sote_8",
+          "title": "Scadu Altus: reach the Shadow Keep",
+          "description": "Explore Scadu Altus and push north to the Shadow Keep, Messmer's black fortress. Its gate is guarded in the first hall by the Golden Hippopotamus. Inside, the keep splits into the Church District (east) and the main specimen storehouse (west) — both hide Scadutree Fragments, NPC quest stages (Leda's followers gather here), and the path upward. Take your time: most of the DLC's questlines advance around the keep.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "sote_9",
+          "title": "Defeat Messmer the Impaler",
+          "description": "At the storehouse's peak, in the Dark Chamber, you face Messmer the Impaler — Marika's serpent-cursed son and the expansion's centerpiece duel. His spear and flame combos are long but readable; stay aggressive between them. Victory yields his remembrance and Messmer's Kindling — the flame that can burn the sealing tree. Before using it, finish any follower questlines you care about (Leda, Hornsent, Thiollier, Ansbach, Freyja, Dryleaf Dane).",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "sote_10",
+          "title": "Burn the sealing tree",
+          "description": "From the Shadow Keep's back gate, cross the Scaduview plateau (the hilltop fields north-east of the keep) to the foot of the great sealing tree, fighting or riding past the Shadow Militiamen. At the Sealing Tree Site of Grace, use Messmer's Kindling to set the tree alight — opening the way to Enir-Ilim, the spiral tower at the heart of the Land of Shadow.",
+          "altersPlaythrough": true,
+          "consequence": "Burning the sealing tree is the DLC's point of no return. Miquella's remaining followers converge on Enir-Ilim and their questlines conclude — any follower quest steps left unfinished are locked, and Leda's suspicions turn deadly. Complete every DLC NPC quest you care about (and collect Scadutree Fragments in earlier zones) before you light this fire."
+        },
+        {
+          "id": "sote_11",
+          "title": "Ascend Enir-Ilim and face Needle Knight Leda",
+          "description": "Climb the spiral city of Enir-Ilim, the Divine Gateway's tower. Near its summit you are invaded by Needle Knight Leda and those followers who kept faith with Miquella — the exact lineup depends on how each questline ended. Allies of your own (such as Ansbach and Thiollier, if their quests concluded well) can be summoned to even the odds. Their fall clears the final flight of stairs.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "sote_12",
+          "title": "Defeat Promised Consort Radahn",
+          "description": "At the Divine Gateway waits the final battle of the expansion: Promised Consort Radahn — the Starscourge reborn in the flesh Miquella promised him, with Miquella himself joining in the second phase in a storm of holy light. This is among the hardest fights FromSoftware has made: max out your Scadutree Blessing and Revered Spirit Ashes before attempting, and you may not want to summon both Ansbach and Thiollier if you have them. They increase the health of the boss significantly. I recommend going in with a mimic+10. Victory earns Radahn's remembrance and concludes the story of Miquella's terrible kindness.",
+          "altersPlaythrough": false,
+          "consequence": null
+        },
+        {
+          "id": "sote_13",
+          "title": "Aftermath: return to the Lands Between",
+          "description": "The expansion has no ending choice of its own — after the memory of the vow plays, you remain in the Land of Shadow, free to finish exploring (Midra's Manse of Frenzied Flame, the Abyssal Woods, Bayle the Dread atop Jagged Peak, and the Ancient Ruins of Rauh all await if you skipped them). When you are done, travel back to the Lands Between via any Site of Grace and pursue whichever of the game's endings you choose — nothing done in the DLC alters them. Now would be a good time to start your next playthrough. Go to the table in Round Table Hold and choose Begin Journey 2.",
+          "altersPlaythrough": false,
+          "consequence": null
+        }
+      ]
+    }
+  ]
+}

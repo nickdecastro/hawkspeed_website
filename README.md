@@ -1,5 +1,7 @@
 # HawkSpeed Website
 
+[**Open the site locally**](http://localhost:3000) — run `npm run dev` first if it's not already running.
+
 Public site for HawkSpeed, with two main sections:
 
 - **Games** (`/games`) — apps and games we've made

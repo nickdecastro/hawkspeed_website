@@ -44,6 +44,29 @@ export default async function GamePage({
           <p key={index}>{paragraph}</p>
         ))}
       </div>
+      {game.features && game.features.length > 0 && (
+        <div className="mt-10">
+          <h2 className="text-xl font-semibold tracking-tight">Features</h2>
+          <div className="mt-4 grid gap-4 sm:grid-cols-2">
+            {game.features.map((group) => (
+              <div
+                key={group.title}
+                className="rounded-lg border border-white/10 p-5"
+              >
+                <h3 className="font-medium">{group.title}</h3>
+                <ul className="mt-3 flex flex-col gap-2 text-sm text-foreground/70">
+                  {group.items.map((item, index) => (
+                    <li key={index} className="flex gap-2">
+                      <span className="text-foreground/40">&bull;</span>
+                      <span>{item}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
     </div>
   );
 }
