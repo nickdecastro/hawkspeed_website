@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 const navLinks = [
@@ -9,7 +10,17 @@ export default function Header() {
   return (
     <header className="border-b border-white/10">
       <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-4">
-        <Link href="/" className="text-lg font-semibold tracking-tight">
+        <Link
+          href="/"
+          className="flex items-center gap-2.5 text-lg font-semibold tracking-tight"
+        >
+          <Image
+            src="/logo/hawkspeed-amber.svg"
+            alt=""
+            width={429}
+            height={335}
+            className="h-8 w-auto"
+          />
           HawkSpeed
         </Link>
         <nav className="flex gap-6 text-sm">
