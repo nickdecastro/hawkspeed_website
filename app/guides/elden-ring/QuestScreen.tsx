@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { useT } from "@/components/LanguageProvider";
 import type { Ending } from "./types";
 import QuestStepCard from "./QuestStepCard";
 
@@ -17,6 +18,7 @@ export default function QuestScreen({
   onBack: () => void;
   onResetProgress: () => void;
 }) {
+  const q = useT().eldenRing.quest;
   const [expanded, setExpanded] = useState<Set<number>>(
     () => new Set([Math.min(completedCount, ending.steps.length - 1)])
   );
@@ -69,13 +71,13 @@ export default function QuestScreen({
         onClick={onBack}
         className="text-sm text-foreground/60 transition-colors hover:text-foreground"
       >
-        &#8617; Back
+        &#8617; {q.back}
       </button>
       <h2 className="mt-4 text-2xl font-semibold tracking-tight">{ending.title}</h2>
 
       {allComplete && (
         <p className="mt-2 text-sm text-foreground/70">
-          You&apos;ve completed every step for this ending.
+          {q.endingComplete}
         </p>
       )}
 
@@ -98,7 +100,7 @@ export default function QuestScreen({
           onClick={onResetProgress}
           className="mt-8 text-xs text-foreground/40 transition-colors hover:text-foreground/70"
         >
-          Reset progress for this ending
+          {q.resetEnding}
         </button>
       )}
     </div>

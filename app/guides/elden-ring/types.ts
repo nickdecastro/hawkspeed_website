@@ -1,5 +1,7 @@
 export type QuestStep = {
   id: string;
+  // Optional step number shown before the title, e.g. "5.3".
+  label?: string;
   title: string;
   description: string;
   altersPlaythrough: boolean;
@@ -9,6 +11,12 @@ export type QuestStep = {
 export type Ending = {
   id: string;
   order: number;
+  title: string;
+  steps: QuestStep[];
+};
+
+export type WalkthroughZone = {
+  id: string;
   title: string;
   steps: QuestStep[];
 };

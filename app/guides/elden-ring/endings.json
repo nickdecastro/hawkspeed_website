@@ -22,7 +22,7 @@
         {
           "id": "el_3",
           "title": "Activate Godrick's Great Rune",
-          "description": "A Great Rune is powerless until restored. Travel east across Limgrave to the Divine Tower of Limgrave — reach it via the great stone bridge behind Stormveil Castle (from the Liftside Chamber grace) and the portal at the bridge's end. Climb the tower and restore Godrick's Great Rune at its peak. Equip it at a Site of Grace and consume a Rune Arc to gain +5 to all attributes while it lasts.",
+          "description": "A Great Rune is powerless until restored. Travel east across Limgrave to the Divine Tower of Limgrave — reach it via the great stone bridge behind Stormveil Castle (from the Liftside Chamber Site of Grace) and the portal at the bridge's end. Climb the tower and restore Godrick's Great Rune at its peak. Equip it at a Site of Grace and consume a Rune Arc to gain +5 to all attributes while it lasts.",
           "altersPlaythrough": false,
           "consequence": null
         },
@@ -57,7 +57,7 @@
         {
           "id": "el_8",
           "title": "Defeat Morgott, the Omen King",
-          "description": "Climb to the base of the Erdtree and face Morgott, the Omen King — Margit's true self. Melina can be summoned for this fight at the boss door. After victory, rest at the grace: Melina gives you the Rold Medallion and instructs you to seek the Mountaintops of the Giants. You'll also discover the Erdtree's thorns bar your entry — you need the Flame of Ruin.",
+          "description": "Climb to the base of the Erdtree and face Morgott, the Omen King — Margit's true self. Melina can be summoned for this fight at the boss door. After victory, rest at the Site of Grace: Melina gives you the Rold Medallion and instructs you to seek the Mountaintops of the Giants. You'll also discover the Erdtree's thorns bar your entry — you need the Flame of Ruin.",
           "altersPlaythrough": false,
           "consequence": null
         },
@@ -99,7 +99,7 @@
         {
           "id": "el_14",
           "title": "Defeat Radagon of the Golden Order and the Elden Beast",
-          "description": "Enter the Erdtree. The final battle is two bosses back to back with no grace between: Radagon of the Golden Order, whose hammer blows track your dodges, and then the Elden Beast, a vast swimming god-creature. Physical damage serves you better than holy — the Elden Beast heavily resists holy damage. There is no shame in summoning a friend, or using the Mimic Tear if you have it.",
+          "description": "Enter the Erdtree. The final battle is two bosses back to back with no Site of Grace between: Radagon of the Golden Order, whose hammer blows track your dodges, and then the Elden Beast, a vast swimming god-creature. Physical damage serves you better than holy — the Elden Beast heavily resists holy damage. There is no shame in summoning a friend, or using the Mimic Tear if you have it.",
           "altersPlaythrough": false,
           "consequence": null
         },
@@ -120,7 +120,7 @@
         {
           "id": "ff_1",
           "title": "Meet Hyetta at Lake-Facing Cliffs",
-          "description": "This ending can be reached without any NPC quest, but Hyetta's questline is its proper companion. First, pick up a Shabriri Grape in Stormveil Castle (in the dim chamber beneath the castle where commoners kneel in prayer, near the Liftside Chamber grace). Then travel to the Lake-Facing Cliffs Site of Grace in southern Liurnia and give the grape to Hyetta, a blind maiden journeying toward 'distant grace.'",
+          "description": "This ending can be reached without any NPC quest, but Hyetta's questline is its proper companion. First, pick up a Shabriri Grape in Stormveil Castle (in the dim chamber beneath the castle where commoners kneel in prayer, near the Liftside Chamber Site of Grace). Then travel to the Lake-Facing Cliffs Site of Grace in southern Liurnia and give the grape to Hyetta, a blind maiden journeying toward 'distant grace.'",
           "altersPlaythrough": false,
           "consequence": null
         },
@@ -183,7 +183,7 @@
         {
           "id": "ff_10",
           "title": "Witness Hyetta's end",
-          "description": "If you followed Hyetta's quest, she appears at the Frenzied Flame Proscription grace after you are marked. Speak with her: she at last beholds the 'distant grace' she sought, serves briefly as your Finger Maiden, and dies content — leaving Frenzyflame Stone. Her quest, and her mercy, are complete.",
+          "description": "If you followed Hyetta's quest, she appears at the Frenzied Flame Proscription Site of Grace after you are marked. Speak with her: she at last beholds the 'distant grace' she sought, serves briefly as your Finger Maiden, and dies content — leaving Frenzyflame Stone. Her quest, and her mercy, are complete.",
           "altersPlaythrough": false,
           "consequence": null
         },
@@ -218,7 +218,7 @@
         {
           "id": "aos_3",
           "title": "Meet Blaidd in the Siofra River",
-          "description": "Descend into the Siofra River underground (the well entrance is in the Mistwood, east Limgrave). Find Blaidd on a cliff ledge near the Siofra River Bank grace — follow his howls. He tells you Nokron is sealed and suggests consulting Seluvis, who in turn points you to Sorceress Sellen (at the Waypoint Ruins in Limgrave): the seal on Nokron breaks only when Starscourge Radahn falls, for it is his power that holds the stars — and Ranni's fate — in place.",
+          "description": "Descend into the Siofra River underground (the well entrance is in the Mistwood, east Limgrave). Find Blaidd on a cliff ledge near the Siofra River Bank Site of Grace — follow his howls. He tells you Nokron is sealed and suggests consulting Seluvis, who in turn points you to Sorceress Sellen (at the Waypoint Ruins in Limgrave): the seal on Nokron breaks only when Starscourge Radahn falls, for it is his power that holds the stars — and Ranni's fate — in place.",
           "altersPlaythrough": false,
           "consequence": null
         },
@@ -267,7 +267,7 @@
         {
           "id": "aos_10",
           "title": "Slay the Baleful Shadow in Nokstella",
-          "description": "Ranni, speaking through the doll, asks you to hunt down her betrayer. Follow the Ainsel River up into Nokstella, Eternal City, then descend the great stairway beneath it. In the tunnel beyond the Nokstella Waterfall Basin grace, the Baleful Shadow — a dark twin of Blaidd — attacks. Defeat it, and Ranni grants you the Discarded Palace Key. A word of warning: do not strike the real Blaidd before this.",
+          "description": "Ranni, speaking through the doll, asks you to hunt down her betrayer. Follow the Ainsel River up into Nokstella, Eternal City, then descend the great stairway beneath it. In the tunnel beyond the Nokstella Waterfall Basin Site of Grace, the Baleful Shadow — a dark twin of Blaidd — attacks. Defeat it, and Ranni grants you the Discarded Palace Key. A word of warning: do not strike the real Blaidd before this.",
           "altersPlaythrough": false,
           "consequence": null
         },

@@ -1,29 +1,25 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useMemo, useState, useSyncExternalStore } from "react";
 import endingsData from "./endings.json";
 import type { EndingsData } from "./types";
 import EndingList from "./EndingList";
 import QuestScreen from "./QuestScreen";
+import { readProgress, subscribe, writeProgress } from "@/lib/progressStore";
 
 const STORAGE_KEY = "eldenring-endings-progress";
 
 type Progress = Record<string, number>;
 
-function loadProgress(): Progress {
+function readRaw() {
+  return readProgress(STORAGE_KEY);
+}
+
+function parseProgress(raw: string | null): Progress {
   try {
-    const raw = window.localStorage.getItem(STORAGE_KEY);
     return raw ? (JSON.parse(raw) as Progress) : {};
   } catch {
     return {};
-  }
-}
-
-function saveProgress(progress: Progress) {
-  try {
-    window.localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
-  } catch {
-    // Storage may be unavailable (private browsing, quota); progress just won't persist.
   }
 }
 
@@ -33,17 +29,12 @@ export default function EldenRingWalkthrough() {
     []
   );
   const [selectedEndingId, setSelectedEndingId] = useState<string | null>(null);
-  const [progress, setProgress] = useState<Progress>({});
-  const [hydrated, setHydrated] = useState(false);
+  const rawProgress = useSyncExternalStore(subscribe, readRaw, () => null);
+  const progress = useMemo(() => parseProgress(rawProgress), [rawProgress]);
 
-  useEffect(() => {
-    setProgress(loadProgress());
-    setHydrated(true);
-  }, []);
-
-  useEffect(() => {
-    if (hydrated) saveProgress(progress);
-  }, [progress, hydrated]);
+  function setProgress(update: (prev: Progress) => Progress) {
+    writeProgress(STORAGE_KEY, JSON.stringify(update(parseProgress(readRaw()))));
+  }
 
   const selectedEnding = endings.find((ending) => ending.id === selectedEndingId) ?? null;
 
