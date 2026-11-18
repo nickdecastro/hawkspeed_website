@@ -32,8 +32,10 @@ app/
   games/[slug]/page.tsx                 Individual game
   games/data.ts                         Game entries
   guides/page.tsx                       Game Guides section
-  guides/data.ts                        Guide entries
-  guides/elden-ring/                    Elden Ring walkthrough (components + endings.json)
+  guides/data.ts                        Guide tabs (one per game) and their guide links
+  guides/GuideTabs.tsx                  Tabs on the Game Guides page
+  guides/elden-ring/                    All Elden Ring Endings guide (components + endings.json)
+  guides/elden-ring/full-walkthrough/   Full Walkthrough checklist; zones and steps live in full-walkthrough.md
   privacy/endings-guide-for-elden-ring/ Privacy policy for the Elden Ring app
 components/                             Header, Footer, GameCard, GuideCard, StatusBadge
 public/logo/                            HawkSpeed logo (amber = in use, black = future use)

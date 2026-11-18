@@ -1,3 +1,6 @@
+"use client";
+
+import { useT } from "@/components/LanguageProvider";
 import type { QuestStep } from "./types";
 
 export default function QuestStepCard({
@@ -13,6 +16,7 @@ export default function QuestStepCard({
   onToggleExpand: () => void;
   onCheckedChange: (checked: boolean) => void;
 }) {
+  const q = useT().eldenRing.quest;
   return (
     <div className="rounded-lg border border-white/10 overflow-hidden">
       <button
@@ -21,13 +25,9 @@ export default function QuestStepCard({
         aria-expanded={expanded}
         className="flex w-full items-center gap-3 p-4 text-left transition-colors hover:bg-white/5"
       >
-        {step.altersPlaythrough && (
-          <span
-            className="text-foreground"
-            title="Warning: permanently alters your playthrough"
-            aria-hidden
-          >
-            !
+        {step.label && (
+          <span className="w-10 shrink-0 text-xs tabular-nums text-foreground/40">
+            {step.label}
           </span>
         )}
         <span
@@ -37,6 +37,15 @@ export default function QuestStepCard({
         >
           {step.title}
         </span>
+        {step.altersPlaythrough && (
+          <span
+            className="text-foreground"
+            title={q.altersWarning}
+            aria-hidden
+          >
+            !
+          </span>
+        )}
         <span className="text-foreground/50" aria-hidden>
           {expanded ? "⌄" : "›"}
         </span>
@@ -47,13 +56,13 @@ export default function QuestStepCard({
           {step.altersPlaythrough && step.consequence && (
             <div className="mt-4 rounded-md border border-foreground/30 bg-foreground/5 p-3">
               <p className="text-xs font-semibold tracking-wide text-foreground uppercase">
-                ⚠ Why this changes your playthrough
+                ⚠ {q.whyChanges}
               </p>
               <p className="mt-1 text-sm text-foreground/80">{step.consequence}</p>
             </div>
           )}
           <label className="mt-4 flex items-center justify-end gap-2 text-sm text-foreground/80">
-            <span>{checked ? "Completed" : "Mark as done"}</span>
+            <span>{checked ? q.completed : q.markDone}</span>
             <input
               type="checkbox"
               checked={checked}
