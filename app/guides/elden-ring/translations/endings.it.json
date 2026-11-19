@@ -1,0 +1,277 @@
+{
+  "endings": {
+    "elden_lord": "Finale del Lord ancestrale",
+    "frenzied_flame": "Finale del Lord della Fiamma della frenesia",
+    "age_of_stars": "Finale dell'Era delle stelle",
+    "secret_ending": "Finale segreto",
+    "shadow_of_the_erdtree": "Shadow of the Erdtree"
+  },
+  "steps": {
+    "el_1": {
+      "title": "Sconfiggi Margit, the Fell Omen",
+      "description": "Da The First Step a Limgrave, segui la guida della grazia verso nord attraverso Stormgate e su per la collina fino ai dintorni di Stormveil Castle. Margit, the Fell Omen sorveglia il ponte di Castleward Tunnel. Se è troppo forte, esplora prima Limgrave: Gatefront Ruins, Groveside Cave e Stormfoot Catacombs ti faranno salire di livello e ti daranno uno o due Golden Seed. Puoi anche comprare da Patches nella Murkwater Cave il Margit's Shackle per immobilizzarlo due volte."
+    },
+    "el_2": {
+      "title": "Sconfiggi Godrick the Grafted",
+      "description": "Fatti strada attraverso Stormveil Castle fino al suo signore, Godrick the Grafted. Puoi evocare Nepheli Loux davanti alla porta del boss se le hai parlato nel castello. Sconfiggere Godrick ti dà la tua prima Grande runa e un Ricordo. Prenditi il tuo tempo nel castello: nasconde un Golden Seed, pietre per forgiare e il Godslayer's Seal."
+    },
+    "el_3": {
+      "title": "Attiva la Grande runa di Godrick",
+      "description": "Una Grande runa è priva di potere finché non viene ripristinata. Viaggia a est attraverso Limgrave fino alla Divine Tower of Limgrave: ci si arriva dal grande ponte di pietra dietro Stormveil Castle (dal luogo di grazia Liftside Chamber) e dal portale alla fine del ponte. Sali sulla torre e ripristina la Grande runa di Godrick in cima. Equipaggiala a un luogo di grazia e consuma un Rune Arc per ottenere +5 a tutti gli attributi finché dura l'effetto."
+    },
+    "el_4": {
+      "title": "Sconfiggi Rennala, Queen of the Full Moon",
+      "description": "Dirigiti a nord a Liurnia of the Lakes ed entra nell'Academy of Raya Lucaria (ti serve l'Academy Glintstone Key, portata da un cadavere sorvegliato dal drago Smarag a ovest dell'accademia). Sconfiggi il Red Wolf of Radagon e poi Rennala, Queen of the Full Moon nella Grande biblioteca. La sua Grande runa non si può ripristinare, ma conta per le due Grandi rune necessarie a entrare a Leyndell, e da ora in poi ti offre la rinascita (ridistribuzione degli attributi) in cambio di Larval Tear."
+    },
+    "el_5": {
+      "title": "Sali sull'Altus Plateau",
+      "description": "Raggiungi l'Altus Plateau per una di due strade: raccogli entrambe le metà del Dectus Medallion (Fort Haight nell'est di Limgrave e Fort Faroth a Caelid) e prendi il Grand Lift of Dectus nel nord di Liurnia, oppure fatti strada nel Ruin-Strewn Precipice e sconfiggi Magma Wyrm Makar. L'ascensore è la via più facile; il precipizio ti ricompensa con un Golden Seed e un talismano."
+    },
+    "el_6": {
+      "title": "Entra a Leyndell, Royal Capital",
+      "description": "Attraversa l'Altus Plateau verso est in direzione della capitale. Con due Grandi rune in tuo possesso, solo il Draconic Tree Sentinel alla porta esterna ti sbarra la strada per Leyndell. È uno scontro impegnativo a cavallo: la velocità di Torrent ti aiuta a schivare i suoi fulmini e il suo fuoco. Quando cade, le porte della capitale si aprono per te."
+    },
+    "el_7": {
+      "title": "Sconfiggi Godfrey, First Elden Lord (ombra dorata)",
+      "description": "Avanza per le strade e i tetti di Leyndell verso l'Albero Madre. Nell'arena davanti all'Erdtree Sanctuary affronterai l'ombra dorata di Godfrey, First Elden Lord. I suoi colpi d'ascia sono molto telegrafati; resta vicino e punisci i suoi tempi di recupero. Prima di proseguire, valuta di esplorare tutta la capitale: diverse missioni di PNG (Goldmask, Dung Eater, Sellen) passano da qui ed è meglio farle avanzare ora."
+    },
+    "el_8": {
+      "title": "Sconfiggi Morgott, the Omen King",
+      "description": "Sali fino alla base dell'Albero Madre e affronta Morgott, the Omen King, il vero volto di Margit. Puoi evocare Melina per questo scontro alla porta del boss. Dopo la vittoria, riposa al luogo di grazia: Melina ti dà il Rold Medallion e ti chiede di raggiungere le Mountaintops of the Giants. Scoprirai anche che le spine dell'Albero Madre ti sbarrano l'ingresso: ti serve la Fiamma della rovina."
+    },
+    "el_9": {
+      "title": "Attraversa le Mountaintops of the Giants",
+      "description": "Prendi il Grand Lift of Rold (a est della capitale, con il Rold Medallion) per salire alle Mountaintops of the Giants. Avanza verso est attraverso le distese ghiacciate e il ponte di catene a sud di Castle Sol, lungo la Whiteridge Road e nel dominio del Fire Giant. ATTENZIONE: questa è la tua ultima finestra comoda per completare le missioni dei PNG che richiedono Leyndell nel suo stato attuale, in particolare quelle di Goldmask e del Dung Eater."
+    },
+    "el_10": {
+      "title": "Sconfiggi il Fire Giant",
+      "description": "Alla fine delle vette affronterai il Fire Giant, guardiano della Forge of the Giants. Ha una salute enorme; colpisci il bracciale alla caviglia sinistra nella prima fase e resta dietro di lui nella seconda, quando si strappa la gamba da solo. Puoi evocare Alexander the Iron Fist se la sua missione è abbastanza avanti. Torrent è disponibile per tutto lo scontro."
+    },
+    "el_11": {
+      "title": "Commetti il peccato capitale: brucia l'Albero Madre",
+      "description": "Sali alla Forge of the Giants e riposa al luogo di grazia. Quando scegli di procedere, Melina si sacrifica per alimentare la fiamma e l'Albero Madre brucia. Ti risvegli a Crumbling Farum Azula. Prima di farlo, assicurati di aver completato o fatto avanzare ogni missione dei PNG a cui tieni (Millicent, Goldmask, Dung Eater, Sellen, Nepheli e tutte le altre).",
+      "consequence": "Bruciare l'Albero Madre è il grande punto di non ritorno del gioco. Melina se ne va per sempre (a meno che tu non porti la Fiamma della frenesia), il cielo si tinge di rosso brace e, dopo la caduta di Maliketh, Leyndell diventa la Capitale delle ceneri, bloccando o concludendo diverse missioni dei PNG e rendendo alcune zone irraggiungibili. Non procedere finché le tue faccende in sospeso nell'Interregno non sono sistemate."
+    },
+    "el_12": {
+      "title": "Sconfiggi Maliketh, the Black Blade",
+      "description": "Fatti strada in Crumbling Farum Azula, superando il Godskin Duo (vasi o frecce del sonno li rendono banali) e il Dragon Temple, fino al Beast Clergyman, che a metà scontro si trasforma in Maliketh, the Black Blade. I suoi attacchi di Morte predestinata riducono la tua salute massima, quindi evita gli scambi di colpi. Alla morte di Maliketh, la Morte predestinata viene liberata.",
+      "consequence": "Nel momento in cui Maliketh cade, Leyndell si trasforma nella Capitale delle ceneri. Qualsiasi missione ancora in sospeso nella vecchia capitale va perduta, e la sua struttura cambia per sempre. Se a Leyndell ti resta ancora qualcosa da fare, finiscilo prima di questo scontro."
+    },
+    "el_13": {
+      "title": "Torna alla Capitale delle ceneri e sconfiggi Sir Gideon e Hoarah Loux",
+      "description": "Vieni riportato a Leyndell, ora Capitale delle ceneri. Sali ancora una volta verso l'Albero Madre. Sir Gideon Ofnir, the All-Knowing ti sbarra la strada nella sala simile a una biblioteca: è un duello contro un incantatore. Oltre di lui ti aspetta di nuovo Godfrey, stavolta in carne e ossa; a metà scontro allontana il suo leone e diventa Hoarah Loux, Warrior, un lottatore brutale. Impara a schivare le sue prese: non si possono parare."
+    },
+    "el_14": {
+      "title": "Sconfiggi Radagon of the Golden Order e l'Elden Beast",
+      "description": "Entra nell'Albero Madre. La battaglia finale è composta da due boss uno dopo l'altro, senza luoghi di grazia in mezzo: Radagon of the Golden Order, i cui colpi di martello seguono le tue schivate, e poi l'Elden Beast, un'immensa creatura divina che nuota nell'aria. I danni fisici ti serviranno più di quelli sacri: l'Elden Beast resiste molto ai danni sacri. Non c'è niente di male nell'evocare un amico, o nell'usare la Mimic Tear se ce l'hai."
+    },
+    "el_15": {
+      "title": "Ripara l'Anello ancestrale: diventa Lord ancestrale",
+      "description": "Dopo la caduta dell'Elden Beast, avvicinati al corpo della regina Marika e toccalo. Scegli «Ripara l'Anello ancestrale» per inaugurare l'Era della frattura ed essere incoronato Lord ancestrale. (Se hai completato le missioni del Dung Eater o di Fia, le loro Rune di riparazione alternative compaiono qui come varianti del finale del Lord ancestrale: NON sceglierle, a meno che tu non voglia quelle ere più oscure.)",
+      "consequence": "Scegliere un finale conclude la tua partita e partono i titoli di coda; dopo puoi continuare a esplorare il mondo così com'è, andare al tavolo della Roundtable Hold per iniziare il Viaggio 2 (New Game Plus) oppure, se hai il DLC Shadow of the Erdtree, questo è il momento giusto per raggiungere il fondo di Mohgwyn Palace dopo aver sconfitto Mohg. Nota anche: se hai mai abbracciato le Tre Dita, al suo posto si attiva automaticamente il finale della Fiamma della frenesia; deve essere stata purificata prima con Miquella's Needle. E se hai completato la missione di Ranni, fai attenzione a non attivare il suo segno di evocazione blu, a meno che tu non voglia il suo finale."
+    },
+    "ff_1": {
+      "title": "Incontra Hyetta a Lake-Facing Cliffs",
+      "description": "Questo finale si può ottenere senza alcuna missione dei PNG, ma la missione di Hyetta ne è la compagna naturale. Prima raccogli uno Shabriri Grape a Stormveil Castle (nella stanza buia sotto il castello dove i popolani pregano in ginocchio, vicino al luogo di grazia Liftside Chamber). Poi raggiungi il luogo di grazia Lake-Facing Cliffs nel sud di Liurnia e dai l'acino a Hyetta, una fanciulla cieca in viaggio verso una «grazia lontana»."
+    },
+    "ff_2": {
+      "title": "Segui Hyetta verso nord con altri acini",
+      "description": "Hyetta risale la sponda orientale di Liurnia. La trovi prima vicino alle Purified Ruins (un secondo Shabriri Grape si trova nella cantina sepolta di quelle stesse rovine: cerca una botola di legno), poi al Gate Town Bridge, dove chiede un terzo acino (ce n'è uno alla Church of Inhibition, lontano a nord-est oltre la Frenzy-Flaming Tower; lungo la strada sconfiggi l'invasore Festering Fingerprint Vyke). Dopo il terzo acino capisce con orrore cosa siano davvero: rassicurala per proseguire."
+    },
+    "ff_3": {
+      "title": "Dai a Hyetta il Fingerprint Grape",
+      "description": "Hyetta ti aspetta per l'ultima volta alla Bellum Church, a metà della strada verso il Grand Lift of Dectus. Ora chiede un Fingerprint Grape: si trova alla Church of Inhibition, dove Vyke ti ha invaso. Consegnaglielo e dichiarerà il desiderio di diventare una Vergine delle dita. Non ricomparirà finché non ti troverai davanti alle Tre Dita."
+    },
+    "ff_4": {
+      "title": "Raggiungi Leyndell, Royal Capital",
+      "description": "Avanza nella storia principale fino a poter entrare a Leyndell (due Grandi rune, poi sconfiggi il Draconic Tree Sentinel: vedi il percorso del Lord ancestrale, passaggi da 1 a 6). La strada per le Tre Dita passa sotto la capitale, quindi la città deve esserti aperta. Va fatto PRIMA che bruciare l'Albero Madre riduca Leyndell in cenere, altrimenti il passaggio sotterraneo diventa più difficile da raggiungere."
+    },
+    "ff_5": {
+      "title": "Scendi nei Subterranean Shunning-Grounds",
+      "description": "A Leyndell, trova il pozzo che porta sotto la città: dal luogo di grazia Avenue Balcony, scendi le scale verso la porta ovest e cerca una scala a pioli in un pozzo asciutto lungo la strada. Scendi nei Subterranean Shunning-Grounds, il labirinto di fogne sotto la capitale, e fatti strada tra tunnel e tubature."
+    },
+    "ff_6": {
+      "title": "Sconfiggi Mohg, the Omen",
+      "description": "In fondo alle fogne si trova la Cathedral of the Forsaken, dove ti attende Mohg, the Omen (un'ombra più forte del Mohg che forse affronterai più avanti a Mohgwyn Palace). I suoi attacchi di fiamma di sangue accumulano emorragia: mantieni le distanze quando ti maledice con Nihil, oppure metti la Purifying Crystal Tear nella fiaschetta se l'hai ottenuta durante la missione di Yura."
+    },
+    "ff_7": {
+      "title": "Colpisci l'altare e scendi nel pozzo nascosto",
+      "description": "Dietro l'arena di Mohg c'è un altare di pietra contro la parete di fondo. Colpiscilo: è un'illusione e rivela un passaggio nascosto. Oltre si apre un immenso pozzo verticale, la Frenzied Flame Proscription, da scendere saltando con cautela tra travi, sporgenze e bare. Vai piano: quasi ogni caduta qui è fatale. In fondo ci sono un luogo di grazia e una grande porta sigillata."
+    },
+    "ff_8": {
+      "title": "Togli TUTTA l'armatura prima della porta",
+      "description": "La camera delle Tre Dita si apre solo a chi arriva nudo, come un neonato. Togli ogni pezzo di armatura: elmo, corazza, guanti e gambali. (Armi e talismani possono restare.) Poi avvicinati alla porta e si aprirà da sola."
+    },
+    "ff_9": {
+      "title": "Abbraccia le Tre Dita",
+      "description": "Entra nella camera e le Tre Dita afferreranno il tuo corpo, imprimendo a fuoco nella tua carne il marchio della Fiamma della frenesia. Diventi l'esca senza vergine del caos. NON farlo alla leggera: leggi prima il riquadro delle conseguenze. Se hai già bruciato l'Albero Madre con il sacrificio di Melina, questo momento la mette invece sulla strada della vendetta.",
+      "consequence": "È il singolo atto con le conseguenze più pesanti del gioco. Una volta marchiato dalla Fiamma della frenesia, OGNI altro finale è bloccato: dopo il boss finale parte automaticamente il finale del Lord della Fiamma della frenesia. Melina ti lascia (o giura di portarti la Morte predestinata), anche se il marchio ti permette di accendere la Forge of the Giants senza il suo sacrificio. L'UNICO modo per tornare indietro: completa la missione di Millicent per ottenere Miquella's Needle, poi usalo nell'arena di Dragonlord Placidusax a Crumbling Farum Azula per purificare la fiamma."
+    },
+    "ff_10": {
+      "title": "Assisti alla fine di Hyetta",
+      "description": "Se hai seguito la missione di Hyetta, comparirà al luogo di grazia della Frenzied Flame Proscription dopo che sei stato marchiato. Parlale: finalmente contempla la «grazia lontana» che cercava, ti serve brevemente come Vergine delle dita e muore serena, lasciando la Frenzyflame Stone. La sua missione, e la sua misericordia, sono compiute."
+    },
+    "ff_11": {
+      "title": "Concludi il gioco come Lord del Caos",
+      "description": "Prosegui con il resto della storia principale: brucia l'Albero Madre alla Forge of the Giants (ora basta la tua fiamma), conquista Crumbling Farum Azula e Maliketh, poi la Capitale delle ceneri e infine Radagon e l'Elden Beast. Quando l'Elden Beast cade, il finale della Fiamma della frenesia si attiva automaticamente: il Senzaluce diventa il Lord della Fiamma della frenesia e il caos si impadronisce del mondo."
+    },
+    "aos_1": {
+      "title": "Trova Ranni a Ranni's Rise",
+      "description": "Raggiungi l'altopiano delle Three Sisters nel nord-ovest di Liurnia: si trova dietro Caria Manor, quindi prima devi attraversare il maniero e sconfiggere Royal Knight Loretta. Dall'uscita posteriore del maniero, vai a ovest fino a Ranni's Rise e sali sulla torre. Parla con Ranni la strega in cima. (Se all'inizio del gioco hai incontrato la piccola strega delle nevi Renna alla Church of Elleh e hai ricevuto il fischietto di Torrent, questa è la sua vera identità.)"
+    },
+    "aos_2": {
+      "title": "Scegli di servire Ranni",
+      "description": "Quando Ranni ti offre un posto al suo servizio, accetta. Ti presenta i suoi tre servitori più in basso: Blaidd il mezzo lupo, il consigliere di guerra Iji e il precettore Seluvis. Parla con tutti e tre nella torre (appaiono come proiezioni spettrali), poi parla di nuovo con Ranni per ricevere il tuo compito: cercare il tesoro nascosto di Nokron, Eternal City.",
+      "consequence": "Accettare il patto di Ranni apre la strada verso il finale dell'Era delle stelle. Completare la sua missione ed evocarla alla fine del gioco sostituirà il finale standard del Lord ancestrale. Ancora non si blocca nulla (all'ultimo momento puoi ancora scegliere un altro finale), ma la sua missione plasmerà gran parte del tuo viaggio da qui in poi."
+    },
+    "aos_3": {
+      "title": "Incontra Blaidd nel Siofra River",
+      "description": "Scendi nel Siofra River sotterraneo (l'ingresso dal pozzo si trova nel Mistwood, a est di Limgrave). Trova Blaidd su una sporgenza della scogliera vicino al luogo di grazia Siofra River Bank: segui i suoi ululati. Ti dice che Nokron è sigillata e ti suggerisce di consultare Seluvis, che a sua volta ti indirizza alla maga Sellen (alle Waypoint Ruins di Limgrave): il sigillo di Nokron si spezza solo con la caduta di Starscourge Radahn, perché è il suo potere a tenere ferme le stelle, e il destino di Ranni."
+    },
+    "aos_4": {
+      "title": "Sconfiggi Starscourge Radahn",
+      "description": "Raggiungi Redmane Castle all'estremità sud di Caelid (un portale vicino all'Impassable Greatbridge ti porta dentro) e parla con l'araldo della festa per iniziare il Radahn Festival. Cavalca nelle dune ululanti e affronta Starscourge Radahn: la festa ti permette di evocare un piccolo esercito di alleati PNG, tra cui Blaidd. Usa Torrent liberamente ed evoca di nuovo gli alleati quando cadono. Quando Radahn muore, una stella cadente si schianta su Limgrave: la strada per Nokron è aperta.",
+      "consequence": "La morte di Radahn cambia il mondo: la stella che tratteneva si schianta nel Mistwood, aprendo il cratere verso Nokron, e la festa finisce. Fa anche avanzare il tempo per diversi PNG di Redmane Castle. È necessaria per la missione di Ranni e non si può annullare, ma non blocca nulla che vorresti tenere."
+    },
+    "aos_5": {
+      "title": "Recupera la Fingerslayer Blade a Nokron",
+      "description": "Entra a Nokron, Eternal City dal grande cratere a sud del Mistwood a Limgrave, scendendo con cautela lungo le rovine fluttuanti. Supera il boss Mimic Tear e attraversa gli Ancestral Woods fino al Night's Sacred Ground. Lì, in uno scrigno sorvegliato da guardiani silenziosi, si trova la Fingerslayer Blade: il tesoro nascosto che Ranni cerca."
+    },
+    "aos_6": {
+      "title": "Consegna la Fingerslayer Blade a Ranni",
+      "description": "Torna a Ranni's Rise e presenta la Fingerslayer Blade. Ranni ti ricompensa con la Carian Inverted Statue e se ne va: la sua torre ora è vuota e le proiezioni dei suoi servitori svaniscono. Iji, in carne e ossa sulla strada sottostante, sarà in lutto; parlagli per saperne di più (e per i suoi servizi da fabbro)."
+    },
+    "aos_7": {
+      "title": "Capovolgi la Carian Study Hall",
+      "description": "Raggiungi la Carian Study Hall sulle scogliere orientali di Liurnia. Posa la Carian Inverted Statue sul piedistallo con il modellino dell'edificio nella sala d'ingresso: l'intera torre si capovolge. Attraversa la sala a testa in giù (attento al precettore e alle sue marionette) fino a quella che ora è l'uscita sul ponte della Divine Tower of Liurnia."
+    },
+    "aos_8": {
+      "title": "Prendi la Cursemark of Death",
+      "description": "Attraversa il lungo ponte e prendi l'ascensore della Divine Tower of Liurnia. In cima trovi il talismano Stargazer Heirloom e, sul corpo che vi riposa, la Cursemark of Death: prova della Notte dei Coltelli neri e chiave per comprendere la carne abbandonata di Ranni. (Facoltativo ma consigliato: questo oggetto conta anche per la missione di Fia più avanti.)"
+    },
+    "aos_9": {
+      "title": "Trova la Ranni in miniatura a Renna's Rise",
+      "description": "Torna alle Three Sisters. Renna's Rise, la torre nord prima sigillata, ora è aperta. Prendi il suo ascensore e attraversa il portale in cima: ti teletrasporta all'Ainsel River Main, nel profondo del sottosuolo. Poco più avanti, su una bara aperta, c'è la bambola Miniature Ranni. Raccoglila, poi riposa a un luogo di grazia vicino e scegli «Parla con la Ranni in miniatura» tre volte, finché la bambola non risponde."
+    },
+    "aos_10": {
+      "title": "Uccidi la Baleful Shadow a Nokstella",
+      "description": "Ranni, parlando attraverso la bambola, ti chiede di dare la caccia al suo traditore. Segui l'Ainsel River fino a Nokstella, Eternal City, poi scendi la grande scalinata sottostante. Nel tunnel oltre il luogo di grazia Nokstella Waterfall Basin ti attacca la Baleful Shadow, un gemello oscuro di Blaidd. Sconfiggila e Ranni ti concede la Discarded Palace Key. Un avvertimento: non colpire il vero Blaidd prima di questo momento."
+    },
+    "aos_11": {
+      "title": "Recupera il Dark Moon Ring",
+      "description": "La Discarded Palace Key apre lo scrigno nella Grande biblioteca dell'Academy of Raya Lucaria, la stessa sala in cui hai affrontato Rennala. Dentro c'è il Dark Moon Ring. Custodiscilo con cura: è il tuo anello di fidanzamento con la Principessa lunare."
+    },
+    "aos_12": {
+      "title": "Attraversa il Lake of Rot e sconfiggi Astel",
+      "description": "Prosegui oltre il punto in cui è caduta la Baleful Shadow, scendendo fino al Lake of Rot. Attraversa il lago di putrescenza scarlatta (solleva le piattaforme di pietra; boli e Immunizing Horn Charm aiutano), poi prendi la bara alla cascata del Grand Cloister: ti porta da Astel, Naturalborn of the Void. Sconfiggi questo orrore cosmico (attento alla sua presa con teletrasporto), poi prendi l'ascensore più avanti fino all'altopiano del Moonlight Altar."
+    },
+    "aos_13": {
+      "title": "Posa l'anello: ricongiungiti con Ranni",
+      "description": "Sul Moonlight Altar, entra nella Cathedral of Manus Celes e scendi nel buco del pavimento. Tra i cadaveri delle Due Dita riposa il minuscolo corpo da bambola di Ranni. Parlale e offrile il Dark Moon Ring. Ranni si risveglia, parla della sua Era delle stelle e se ne va, lasciandoti la Dark Moon Greatsword, pegno del suo giuramento. La sua missione è conclusa; resta solo la fine del gioco."
+    },
+    "aos_14": {
+      "title": "Sconfiggi il boss finale ed evoca Ranni",
+      "description": "Completa la storia principale: brucia l'Albero Madre, sconfiggi Maliketh, Hoarah Loux e infine Radagon e l'Elden Beast (vedi il percorso del Lord ancestrale per i dettagli). Dopo la caduta dell'Elden Beast, NON toccare il corpo di Marika. Cerca invece a terra lì vicino il segno di evocazione blu di Ranni e attivalo. Lei arriva per inaugurare l'Era delle stelle e ti prende come consorte nel suo viaggio freddo e oscuro tra le stelle.",
+      "consequence": "Evocare Ranni sigilla il finale dell'Era delle stelle e conclude la tua partita: appena attivi il suo segno, in questo ciclo non è più possibile scegliere un altro finale. (Al contrario, toccare Marika ti farebbe perdere questo finale nonostante tutto il lavoro fatto: la scelta esiste solo in questo momento.) Questo finale ha la precedenza su tutti i finali con Runa di riparazione, ed è indisponibile solo se porti una Fiamma della frenesia non purificata."
+    },
+    "se_1": {
+      "title": "Parla con Brother Corhyn alla Roundtable Hold",
+      "description": "Il più nascosto dei finali con Runa di riparazione, l'Era dell'Ordine, comincia in sordina. Alla Roundtable Hold, parla con Brother Corhyn, il chierico dalla veste dorata che insegna incantesimi sacri. Esaurisci i suoi dialoghi. Alla fine ti dirà che intende lasciare la Tavola rotonda e percorrere l'Interregno in cerca del nobile Goldmask."
+    },
+    "se_2": {
+      "title": "Trova Corhyn sull'Altus Plateau",
+      "description": "Una volta raggiunto l'Altus Plateau (Grand Lift of Dectus o Ruin-Strewn Precipice), Corhyn si sposta a bordo strada poco a nord del luogo di grazia Altus Highway Junction, vicino al pilastro del frammento di mappa. Parlagli: chiede del suo maestro, Goldmask, che non ha ancora trovato."
+    },
+    "se_3": {
+      "title": "Trova Goldmask sul ponte spezzato",
+      "description": "Goldmask sta immobile alla fine di un ponte di pietra in rovina, all'estremo ovest dell'Altus Plateau, a nord-ovest della Road of Iniquity: una figura dorata con le braccia tese verso l'Albero Madre. Parlagli (non dice nulla), poi torna da Corhyn e digli dove si trova il suo maestro. Corhyn raggiunge Goldmask sul ponte."
+    },
+    "se_4": {
+      "title": "Scopri l'impasse",
+      "description": "Parla con Corhyn e Goldmask sul ponte. Goldmask medita su un difetto dell'Ordine aureo ma resta in silenzio; Corhyn non riesce a decifrare l'enigma che lo tormenta. I due hanno bisogno di una rivelazione sul segreto più profondo dell'Ordine, e sei tu a doverla scoprire per loro. Più avanti si sposteranno vicino al colosseo di Leyndell; prosegui con la storia principale finché non puoi entrare nella capitale."
+    },
+    "se_5": {
+      "title": "Ottieni il Golden Order Principia",
+      "description": "A Leyndell, dal luogo di grazia Erdtree Sanctuary (dopo aver sconfitto l'ombra dorata di Godfrey), sali le scale ed esci sul grande ramo curvo dell'Albero Madre che trafigge il santuario. Risalilo e lasciati cadere sul balcone sopra l'ingresso del santuario. Lì, su un trono abbandonato, c'è il Golden Order Principia, il libro di preghiere fondativo dell'Ordine."
+    },
+    "se_6": {
+      "title": "Impara l'incantesimo Law of Regression",
+      "description": "Consegna il Golden Order Principia a un chierico erudito (lo stesso Corhyn, ora vicino al colosseo di Leyndell, oppure Miriel alla Church of Vows) per sbloccarne gli incantesimi, poi impara Law of Regression. Richiede 37 di Intelligenza, tanto per una build basata sulla Fede. Puoi colmare la differenza temporaneamente: la Grande runa di Godrick (+5 a tutti gli attributi), lo Stargazer Heirloom (+5 INT) e una rinascita da Rennala sono tutti leciti. Ti basta lanciarlo una sola volta."
+    },
+    "se_7": {
+      "title": "Risolvi l'enigma: «La regressione allude alla perfezione»",
+      "description": "A Leyndell, trova la statua gigante di Radagon sotto l'Erdtree Sanctuary (scendi con l'ascensore; la statua domina una piccola piazza). Leggi il messaggio alla sua base: «La regressione allude alla perfezione.» Mettiti sul messaggio luminoso e lancia Law of Regression. La statua si trasforma e rivela il segreto più pericoloso dell'Ordine: «Radagon è Marika.»"
+    },
+    "se_8": {
+      "title": "Rivela il segreto a Goldmask e Corhyn",
+      "description": "Torna da Goldmask e Corhyn vicino al colosseo con la verità in mano (leggi prima il messaggio della statua trasformata). Goldmask trema per l'illuminazione: ha colto il difetto fatale dell'Ordine. Corhyn, al contrario, comincia a perdere la fede, turbato dal fatto che tu e il suo maestro mettiate in dubbio il divino. Esaurisci i dialoghi di entrambi. Il loro lavoro è quasi concluso; il tuo continua."
+    },
+    "se_9": {
+      "title": "Brucia l'Albero Madre e sconfiggi Maliketh",
+      "description": "Fai avanzare la storia principale: attraversa le Mountaintops of the Giants, sconfiggi il Fire Giant, accendi la Forge of the Giants (il punto di non ritorno: assicurati prima che TUTTI i passaggi di Goldmask qui sopra siano fatti), poi conquista Crumbling Farum Azula e uccidi Maliketh, the Black Blade. Leyndell diventa la Capitale delle ceneri.",
+      "consequence": "Bruciare l'Albero Madre e uccidere Maliketh trasformano Leyndell per sempre. Se non hai completato la rivelazione di Law of Regression (passaggi da 5 a 8) prima della caduta di Maliketh, la missione di Goldmask non può più essere completata e la Mending Rune of Perfect Order è persa per questa partita."
+    },
+    "se_10": {
+      "title": "Recupera la Mending Rune of Perfect Order",
+      "description": "Nella Capitale delle ceneri, torna nel punto vicino al colosseo dove stavano i due. Goldmask siede morto, dorato e sereno, la sua contemplazione conclusa. Sul suo corpo c'è la Mending Rune of Perfect Order, la sua risposta alla follia di una dea: un Ordine che non dipende più da una divinità volubile. (Corhyn, se hai incrinato la sua fede, vaga disperato lì vicino; il suo destino è segnato in ogni caso.)"
+    },
+    "se_11": {
+      "title": "Sconfiggi i boss finali e usa la Runa di riparazione",
+      "description": "Supera Sir Gideon Ofnir e Hoarah Loux, poi sconfiggi Radagon of the Golden Order e l'Elden Beast. Alla fine, tocca il corpo di Marika e scegli «Usa la Mending Rune of Perfect Order». Sorge l'Era dell'Ordine: un Ordine incrollabile e perfezionato che non tollera più la follia degli dèi, da molti considerato la riparazione più «completa» dell'Anello ancestrale.",
+      "consequence": "Scegliere una Runa di riparazione davanti al corpo di Marika sigilla il tuo finale e fa partire i titoli di coda; la partita è finita, a parte il New Game Plus. Assicurati di scegliere proprio la runa dell'Ordine perfetto: l'opzione predefinita «Ripara l'Anello ancestrale» si trova subito accanto e porta invece alla normale Era della frattura. Questo finale è indisponibile se porti una Fiamma della frenesia non purificata, e sceglierlo significa rinunciare al finale di Ranni anche se la sua missione è completa."
+    },
+    "sote_1": {
+      "title": "Sconfiggi Starscourge Radahn",
+      "description": "Il DLC richiede due boss del gioco base sconfitti. Il primo: Starscourge Radahn. Avvia il Radahn Festival a Redmane Castle a Caelid (raggiungere l'Altus Plateau o far avanzare la missione di Ranni lo fa iniziare) e sconfiggilo nelle dune ululanti con le evocazioni dei PNG della festa al tuo fianco."
+    },
+    "sote_2": {
+      "title": "Raggiungi Mohgwyn Palace",
+      "description": "Secondo requisito: Mohg, Lord of Blood, nelle profondità di Mohgwyn Palace. Ci sono due strade: completare la missione di White Mask Varré (il suo invito sanguinoso ti porta di là); Varré comincia a The First Step e poi si sposta alla Rose Church di Liurnia. Oppure, senza alcuna missione, usare il portale sul bordo occidentale del Consecrated Snowfield, raggiungibile tardi nel gioco con entrambe le metà dell'Haligtree Secret Medallion."
+    },
+    "sote_3": {
+      "title": "Sconfiggi Mohg, Lord of Blood",
+      "description": "Attraversa le caverne intrise di sangue e il mausoleo del palazzo fino a Mohg, Lord of Blood. Il suo rituale di maledizione («Nihil!») ti prosciuga tre volte nella seconda fase: contrastalo con la Purifying Crystal Tear (lasciata da Eleonora alla Second Church of Marika durante la missione di Yura) o semplicemente curati per resistere. La sua caduta apre la strada verso la Terra dell'Ombra."
+    },
+    "sote_4": {
+      "title": "Tocca il braccio avvizzito di Miquella",
+      "description": "Nell'arena di Mohg si erge l'enorme bozzolo di Miquella. Riposa al luogo di grazia, poi interagisci con il braccio avvizzito che sporge dal bozzolo. Vieni trascinato nella Terra dell'Ombra, il regno dell'espansione Shadow of the Erdtree. (Puoi tornare nell'Interregno in qualsiasi momento da qualsiasi luogo di grazia; entrare non ti fa perdere nulla del gioco base.)"
+    },
+    "sote_5": {
+      "title": "Gravesite Plain: segui le croci di Miquella",
+      "description": "Arrivi nella Gravesite Plain. Due sistemi contano subito: gli Scadutree Fragment e le Revered Spirit Ash aumentano i danni che INFLIGGI e riducono quelli che subisci in questo regno; raccoglili senza sosta, qui contano più dei livelli. Segui la guida fino alle croci di Miquella e incontra la cavaliera dell'ago Leda e gli altri seguaci di Miquella riuniti a Three-Path Cross. Parla con tutti."
+    },
+    "sote_6": {
+      "title": "Belurat: sconfiggi il Divine Beast Dancing Lion",
+      "description": "Sali verso ovest fino a Belurat, Tower Settlement, la città dei cornuti infestata dai gargoyle. In cima, in un'arena sferzata dalla pioggia, affronti il Divine Beast Dancing Lion, una bestia mossa da due uomini che alterna posture di vento, fulmine e gelo. Puoi evocare Redmane Freyja all'esterno se l'hai incontrata a Three-Path Cross. La sua caduta ti dà il tuo primo ricordo della Terra dell'Ombra."
+    },
+    "sote_7": {
+      "title": "Castle Ensis: sconfiggi Rellana, Twin Moon Knight",
+      "description": "Attraversa il ponte dell'Ellac River verso nord-est fino a Castle Ensis, la fortezza cariana che sorveglia la strada verso l'entroterra. In cima ti attende Rellana, Twin Moon Knight, la sorella di Rennala, una duellante implacabile con due lame di luna e di fuoco. Il suo colpo delle lune gemelle si evita saltando. Oltre di lei si estende Scadu Altus, l'altopiano nel cuore del regno."
+    },
+    "sote_8": {
+      "title": "Scadu Altus: raggiungi lo Shadow Keep",
+      "description": "Esplora Scadu Altus e spingiti a nord fino allo Shadow Keep, la fortezza nera di Messmer. L'ingresso è sorvegliato nella prima sala dal Golden Hippopotamus. All'interno, la fortezza si divide nel Church District (a est) e nel magazzino principale degli esemplari (a ovest): entrambi nascondono Scadutree Fragment, tappe di missioni dei PNG (i seguaci di Leda si riuniscono qui) e la strada verso l'alto. Prenditi il tuo tempo: la maggior parte delle missioni del DLC avanza intorno alla fortezza."
+    },
+    "sote_9": {
+      "title": "Sconfiggi Messmer the Impaler",
+      "description": "In cima al magazzino, nella Dark Chamber, affronti Messmer the Impaler, il figlio di Marika maledetto dal serpente e il duello centrale dell'espansione. Le sue combo di lancia e fiamme sono lunghe ma leggibili; resta aggressivo tra l'una e l'altra. La vittoria ti dà il suo ricordo e il Messmer's Kindling, la fiamma che può bruciare l'albero sigillo. Prima di usarla, completa le missioni dei seguaci a cui tieni (Leda, Hornsent, Thiollier, Ansbach, Freyja, Dryleaf Dane)."
+    },
+    "sote_10": {
+      "title": "Brucia l'albero sigillo",
+      "description": "Dalla porta posteriore dello Shadow Keep, attraversa l'altopiano di Scaduview (i campi collinari a nord-est della fortezza) fino ai piedi del grande albero sigillo, combattendo o superando a cavallo gli Shadow Militiamen. Al luogo di grazia Sealing Tree, usa il Messmer's Kindling per dare fuoco all'albero: si apre la strada per Enir-Ilim, la torre a spirale nel cuore della Terra dell'Ombra.",
+      "consequence": "Bruciare l'albero sigillo è il punto di non ritorno del DLC. I seguaci rimasti a Miquella convergono su Enir-Ilim e le loro missioni si concludono: ogni tappa delle missioni dei seguaci rimasta incompiuta viene bloccata e i sospetti di Leda diventano letali. Completa ogni missione dei PNG del DLC a cui tieni (e raccogli gli Scadutree Fragment delle zone precedenti) prima di accendere questo fuoco."
+    },
+    "sote_11": {
+      "title": "Scala Enir-Ilim e affronta Needle Knight Leda",
+      "description": "Scala la città a spirale di Enir-Ilim, la torre della Divine Gateway. Vicino alla cima vieni invaso da Needle Knight Leda e dai seguaci rimasti fedeli a Miquella; la formazione esatta dipende da come è finita ciascuna missione. Puoi evocare i tuoi alleati (come Ansbach e Thiollier, se le loro missioni sono finite bene) per pareggiare i conti. La loro caduta libera l'ultima rampa di scale."
+    },
+    "sote_12": {
+      "title": "Sconfiggi Promised Consort Radahn",
+      "description": "Alla Divine Gateway ti attende la battaglia finale dell'espansione: Promised Consort Radahn, lo Starscourge rinato nella carne che Miquella gli aveva promesso, con Miquella stesso che si unisce nella seconda fase in una tempesta di luce sacra. È uno degli scontri più difficili mai creati da FromSoftware: porta al massimo la tua Scadutree Blessing e le Revered Spirit Ash prima di provarci, e forse è meglio non evocare insieme Ansbach e Thiollier se li hai, perché aumentano parecchio la salute del boss. Consiglio di affrontarlo con un Mimic +10. La vittoria ti dà il ricordo di Radahn e chiude la storia della terribile bontà di Miquella."
+    },
+    "sote_13": {
+      "title": "Epilogo: torna nell'Interregno",
+      "description": "L'espansione non ha una scelta di finale propria: dopo la scena del ricordo del giuramento resti nella Terra dell'Ombra, libero di finire l'esplorazione (Midra's Manse of Frenzied Flame, gli Abyssal Woods, Bayle the Dread in cima al Jagged Peak e le Ancient Ruins of Rauh ti aspettano se li hai saltati). Quando hai finito, torna nell'Interregno da qualsiasi luogo di grazia e persegui il finale del gioco che preferisci: nulla di ciò che fai nel DLC li modifica. Questo sarebbe un buon momento per iniziare la tua prossima partita. Vai al tavolo della Roundtable Hold e scegli «Inizia il Viaggio 2»."
+    }
+  }
+}

@@ -133,7 +133,6 @@ const de: Messages = {
     },
   },
   eldenRing: {
-    englishOnly: "Die Schritte des Guides unten sind derzeit nur auf Englisch verfügbar.",
     stepsHelp: [
       "Die Schritte erscheinen einzeln, sodass du immer nur siehst, was als Nächstes zu tun ist. Hake einen Schritt ab, sobald du ihn erledigt hast, um den nächsten anzuzeigen; entferne den Haken, um zu diesem Punkt zurückzuspringen. Jeder mit ",
       " markierte Schritt verändert deinen Spieldurchlauf dauerhaft – klappe ihn auf und lies den Grund, bevor du dich festlegst. Dein Fortschritt wird in diesem Browser gespeichert.",

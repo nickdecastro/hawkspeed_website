@@ -3,7 +3,8 @@
 import { useState, useSyncExternalStore } from "react";
 import type { WalkthroughZone } from "../types";
 import QuestStepCard from "../QuestStepCard";
-import { useT } from "@/components/LanguageProvider";
+import { useLanguage } from "@/components/LanguageProvider";
+import type { Language } from "@/lib/i18n/locales";
 import { readProgress, subscribe, writeProgress as storeProgress } from "@/lib/progressStore";
 
 const STORAGE_KEY = "eldenring-walkthrough-progress";
@@ -19,8 +20,16 @@ function writeProgress(count: number) {
   storeProgress(STORAGE_KEY, String(count));
 }
 
-export default function WalkthroughChecklist({ zones }: { zones: WalkthroughZone[] }) {
-  const c = useT().eldenRing.checklist;
+export default function WalkthroughChecklist({
+  zonesByLanguage,
+}: {
+  zonesByLanguage: Record<Language, WalkthroughZone[]>;
+}) {
+  const { locale, t } = useLanguage();
+  const c = t.eldenRing.checklist;
+  // Every translation has the same shape as English (checked at build time),
+  // so indexes and saved progress are the same in every language.
+  const zones = zonesByLanguage[locale.language];
   const totalSteps = zones.reduce((sum, zone) => sum + zone.steps.length, 0);
   const storedCount = useSyncExternalStore(subscribe, readCount, () => 0);
   const completedCount = Math.min(storedCount, totalSteps);

@@ -133,7 +133,6 @@ const it: Messages = {
     },
   },
   eldenRing: {
-    englishOnly: "Per ora i passaggi della guida sono disponibili solo in inglese.",
     stepsHelp: [
       "I passaggi compaiono uno alla volta, così vedi sempre e solo cosa fare dopo. Spunta un passaggio una volta completato per mostrare il successivo; togli la spunta per tornare a quel punto. Ogni passaggio contrassegnato da ",
       " modifica in modo permanente la tua partita: aprilo e leggi il perché prima di procedere. I tuoi progressi vengono salvati in questo browser.",

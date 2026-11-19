@@ -42,3 +42,23 @@ export function parseWalkthrough(source: string): WalkthroughZone[] {
 
   return zones;
 }
+
+// Throws unless a translation has the same zones, steps per zone, and
+// point-of-no-return steps as the English walkthrough.
+export function assertSameShape(base: WalkthroughZone[], other: WalkthroughZone[], language: string) {
+  const fail = (what: string) => {
+    throw new Error(`full-walkthrough.${language}.md does not match full-walkthrough.md: ${what}`);
+  };
+  if (other.length !== base.length) fail(`${other.length} zones, expected ${base.length}`);
+  base.forEach((zone, z) => {
+    const steps = other[z].steps;
+    if (steps.length !== zone.steps.length) {
+      fail(`zone ${z} has ${steps.length} steps, expected ${zone.steps.length}`);
+    }
+    zone.steps.forEach((step, s) => {
+      if (steps[s].altersPlaythrough !== step.altersPlaythrough) {
+        fail(`step ${step.label} point-of-no-return marker differs`);
+      }
+    });
+  });
+}
