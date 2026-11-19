@@ -9,6 +9,7 @@ How this file becomes the website page:
 - A line starting with "Point of no return:" marks the step with "!" and shows that text as the warning.
 - Anything above the first "##" heading (like this intro) is not shown on the page.
 - Saved progress is a count of completed steps, so adding, removing, or reordering steps shifts every reader's progress. Prefer editing a step's text in place.
+- Translations live beside this file as `full-walkthrough.<language>.md` (fr, de, es, pt, it). They must have exactly the same zones, steps, and "Point of no return:" lines in the same order (keep that marker in English in every file); the build fails if they drift. When you change a step here, change it in every translation too.
 
 ## 0. Tutorial
 

@@ -134,8 +134,6 @@ const en = {
     } as Record<string, { title: string; blurb: string }>,
   },
   eldenRing: {
-    // Shown above the checklists, whose step text is only available in English.
-    englishOnly: "",
     stepsHelp: [
       "Steps reveal one at a time, so you only ever see what to do next. Check a step off once you've done it to reveal the next one; uncheck a step to rewind back to that point. Any step marked with ",
       " permanently alters your playthrough — expand it to read why before you commit. Your progress is saved in this browser.",

@@ -24,3 +24,9 @@ export type WalkthroughZone = {
 export type EndingsData = {
   endings: Ending[];
 };
+
+// translations/endings.<lang>.json: text only, keyed by ending id and step id.
+export type EndingsTranslation = {
+  endings: Record<string, string>;
+  steps: Record<string, { title?: string; description?: string; consequence?: string }>;
+};

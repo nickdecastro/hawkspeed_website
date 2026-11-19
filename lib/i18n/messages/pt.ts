@@ -133,7 +133,6 @@ const pt: Messages = {
     },
   },
   eldenRing: {
-    englishOnly: "Por enquanto, os passos do guia estão disponíveis apenas em inglês.",
     stepsHelp: [
       "Os passos aparecem um de cada vez, para que você veja apenas o que fazer a seguir. Marque um passo quando o concluir para ver o próximo; desmarque-o para voltar a esse ponto. Qualquer passo marcado com ",
       " altera a sua partida de forma permanente: expanda-o para ler o motivo antes de decidir. O seu progresso fica salvo neste navegador.",

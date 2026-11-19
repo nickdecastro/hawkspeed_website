@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useDocumentTitle, useT } from "@/components/LanguageProvider";
 
 // Header and instructions for the two Elden Ring checklist pages. The steps
-// themselves come from endings.json / full-walkthrough.md and are English-only.
+// themselves come from endings.json / full-walkthrough.md and their translations.
 export default function GuideIntro({ guide }: { guide: "endings" | "walkthrough" }) {
   const t = useT();
   const er = t.eldenRing;
@@ -27,11 +27,6 @@ export default function GuideIntro({ guide }: { guide: "endings" | "walkthrough"
           <span className="text-foreground">!</span>
           {er.stepsHelp[1]}
         </p>
-        {er.englishOnly && (
-          <p className="rounded-md border border-white/10 bg-white/5 px-3 py-2 text-sm text-foreground/70">
-            {er.englishOnly}
-          </p>
-        )}
       </div>
     </>
   );

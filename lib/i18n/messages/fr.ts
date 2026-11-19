@@ -133,7 +133,6 @@ const fr: Messages = {
     },
   },
   eldenRing: {
-    englishOnly: "Les étapes du guide ci-dessous ne sont pour l'instant disponibles qu'en anglais.",
     stepsHelp: [
       "Les étapes se dévoilent une à une : vous ne voyez jamais que la suivante. Cochez une étape une fois terminée pour afficher la suivante ; décochez-la pour revenir à ce point. Toute étape marquée d'un ",
       " modifie définitivement votre partie : dépliez-la pour en lire la raison avant de vous engager. Votre progression est enregistrée dans ce navigateur.",
